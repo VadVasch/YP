@@ -17,7 +17,7 @@
 Исследование рынка общественного питания на основе открытых данных, подготовка презентации для инвесторов.
 
 ## Используемый стэк
-*Pandas*, *Numpy*, *Matplotlib*, *Seaborn*, *Plotly*, *Plotly Express*, *Dadata*
+*Python*, *Pandas*, *Numpy*, *Matplotlib*, *Seaborn*, *Plotly*, *Plotly Express*, *Dadata*
 
 ## Основные шаги
 

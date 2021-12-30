@@ -34,10 +34,10 @@
 	
 ## Задача
 
-Проанализировать поведение игроков в разрезе рекламных источников трафика и выяснить, какие источники являются наиболее выгодными для компании
+Проанализировать поведение игроков в разрезе рекламных источников трафика и выяснить, какие источники являются наиболее выгодными для компании.
 
 ## Используемый стэк
-*Python*, *Pandas*, *Numpy*, *Datetime*, *Matplotlib*, *Pandas plotting*, *Seaborn*, *Plotly*, *Plotly express*, *Math*, *SciPy* 
+*Python*, *Pandas*, *Numpy*, *Datetime*, *Matplotlib*, *Pandas plotting*, *Seaborn*, *Plotly*, *Plotly Express*, *Math*, *SciPy* 
 
 
 ## Основные шаги
