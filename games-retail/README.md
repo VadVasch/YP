@@ -22,12 +22,6 @@
 ## Используемые библиотеки
 *Pandas*, *Matplotlib*, *Numpy*, *Math*, *Scipy*
 
-import pandas as pd
-import matplotlib.pyplot as plt
-import numpy as np
-import math
-from scipy import stats as st
-
 ## Основные шаги
 
 В ходе проведенного исследования были обработаны данные о продажах видеоигр. 
